@@ -1,0 +1,21 @@
+[0.336s] Invoking command in '/home/erictom97/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/erictom97/ros2_ws/build/my_py_pkg/prefix_override:/home/erictom97/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/erictom97/ros2_ws/build/my_py_pkg/build --no-deps symlink_data --force
+[0.469s] running develop
+[0.582s] running egg_info
+[0.582s] writing my_py_pkg.egg-info/PKG-INFO
+[0.582s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.582s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.582s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.582s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.583s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.584s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.585s] running build_ext
+[0.585s] Creating /home/erictom97/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.585s] Installing py_node script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.585s] Installing py_node2 script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.585s] Installing robot_news_station script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.585s] 
+[0.585s] Installed /home/erictom97/ros2_ws/build/my_py_pkg
+[0.586s] running symlink_data
+[0.586s] symbolically linking /home/erictom97/ros2_ws/build/my_py_pkg/resource/my_py_pkg -> /home/erictom97/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[0.586s] symbolically linking /home/erictom97/ros2_ws/build/my_py_pkg/package.xml -> /home/erictom97/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[0.612s] Invoked command in '/home/erictom97/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/erictom97/ros2_ws/build/my_py_pkg/prefix_override:/home/erictom97/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/erictom97/ros2_ws/build/my_py_pkg/build --no-deps symlink_data --force

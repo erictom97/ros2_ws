@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'py_node = my_py_pkg.my_first_node:main',
-            'py_node2 = my_py_pkg.my_first_node_OOP:main'
+            'py_node2 = my_py_pkg.my_first_node_OOP:main',
+            'robot_news_station = my_py_pkg.robot_news_station:main'
         ],
     },
 )
