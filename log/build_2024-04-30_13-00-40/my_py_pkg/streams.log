@@ -1,0 +1,26 @@
+[0.313s] Invoking command in '/home/erictom97/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/erictom97/ros2_ws/build/my_py_pkg/prefix_override:/home/erictom97/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/erictom97/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
+[0.443s] running develop
+[0.528s] running egg_info
+[0.528s] writing my_py_pkg.egg-info/PKG-INFO
+[0.528s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.528s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.528s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.528s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.529s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.530s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.531s] running build_ext
+[0.531s] Creating /home/erictom97/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.531s] Installing add_two_ints_client script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.531s] Installing add_two_ints_client_no_oop script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.531s] Installing add_two_ints_server script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.531s] Installing hw_status_publisher script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.531s] Installing number_counter script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.532s] Installing number_publisher script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.532s] Installing py_node script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.532s] Installing py_node2 script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.532s] Installing robot_news_station script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.532s] Installing smartphone script to /home/erictom97/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.532s] 
+[0.532s] Installed /home/erictom97/ros2_ws/build/my_py_pkg
+[0.532s] running symlink_data
+[0.557s] Invoked command in '/home/erictom97/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/erictom97/ros2_ws/build/my_py_pkg/prefix_override:/home/erictom97/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/erictom97/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
